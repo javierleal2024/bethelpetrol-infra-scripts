@@ -1,0 +1,8 @@
+# Datos sensibles - nunca subir
+*.csv
+passwords_generadas.csv
+.env
+
+# Archivos temporales de Windows
+Thumbs.db
+desktop.ini
