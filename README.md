@@ -6,7 +6,7 @@ usuarios, y unidades compartidas con Samba.
 
 Proyecto de práctica para DevOps / administración de sistemas, simulando la
 infraestructura completa de una empresa (identidad, archivos, tickets) sobre
-Windows Server + Ubuntu Server en Parallels.
+Windows Server + Ubuntu Server en arquitectura ARM (Macbook m3 air 24gb ram)
 
 ## Estructura
 
